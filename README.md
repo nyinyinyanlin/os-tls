@@ -1,2 +1,2 @@
-# os-tls
-Open Source Terrestrial Laser Scanner
+# OS-TLS | Open Source Terrestiral Laser Scanner
+
